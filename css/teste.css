@@ -1,0 +1,52 @@
+body{
+    background-color: #aca3df;
+    font-family: 'Roboto', sans-serif;
+    margin: 15rem;
+    min-width: 1140px;
+}
+h1{
+    margin: 5rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+}
+.escolha{
+    margin: 5rem;
+    text-align: center;
+    background-color: rgb(113, 62, 146);
+    padding: 1rem 2rem 3rem 3rem;
+    border-radius: 1rem;
+    box-shadow: 0px 6px 4px rgba(0, 0, 0, 0.50);
+}
+h2{
+    margin-bottom: 5rem;
+    border-radius: 1rem;
+    color: white;
+}
+.botao1{
+    background-color: rgb(255, 21, 0);
+    padding: .6rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.botao2{
+    background-color: rgb(255, 145, 0);
+    padding: .6rem;
+    border-radius: 1rem;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 1rem;
+}
+img{
+    margin: 10rem;
+    margin-left: 35rem;
+    width: 20rem;
+}
